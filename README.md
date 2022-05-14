@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryangrover11" target="blank"><img src="https://img.shields.io/twitter/follow/aryangrover11?logo=twitter&style=for-the-badge" alt="aryangrover11" /></a> </p>
 
-- 🔭 I’m currently working on [React Real Life Projects](Freelancing)
+- 🔭 I’m currently working on [React Real Life Projects]
 
-- 👯 I’m looking to collaborate on [Development Projects](Meetups, Friendship :))
+- 👯 I’m looking to collaborate on [Web Development Projects, Meetups, Connections]
 
 - 👨‍💻 All of my projects are available at [github.com/aryang23](github.com/aryang23)
 
