@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryang23" alt="aryang23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryangrover11" target="blank"><img src="https://img.shields.io/twitter/follow/aryangrover11?logo=twitter&style=for-the-badge" alt="aryangrover11" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryang23js" target="blank"><img src="https://img.shields.io/twitter/follow/aryang23js?logo=twitter&style=for-the-badge" alt="aryang23js" /></a> </p>
 
 - 🔭 I’m currently working on [React Real Life Projects]
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aryangrover11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryangrover11" height="30" width="40" /></a>
+<a href="https://twitter.com/aryang23js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryang23js" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-grover" height="30" width="40" /></a>
 <a href="https://instagram.com/_grover89_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_grover89_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryang23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryang23" height="30" width="40" /></a>
