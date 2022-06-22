@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/aryang23js" target="blank"><img src="https://img.shields.io/twitter/follow/aryang23js?logo=twitter&style=for-the-badge" alt="aryang23js" /></a> </p>
 
-- 🔭 I’m currently working on [React Real Life Projects]
+- 🔭 I’m currently working as Full Stack Developer with a Group of Consultants having 10-12+ YoE for US Clients.
 
 - 👯 I’m looking to collaborate on [Web Development Projects, Meetups, Connections]
 
 - 👨‍💻 All of my projects are available at [github.com/aryang23](github.com/aryang23)
 
-- 💬 Ask me about **React, JavaScript, NodeJS, DSA**
+- 💬 Ask me about **ReactJS, JavaScript, NodeJS, DSA**
 
 - 📫 How to reach me **aryangrover230402@gmail.com**
 
