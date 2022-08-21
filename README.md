@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/aryang23"><img src="https://api.daily.dev/devcards/1666b8c9b74e4111bffc33517e600cf3.png?r=et7" width="400" alt="Aryan Grover's Dev Card"/></a>
