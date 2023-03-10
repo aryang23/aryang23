@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as Full Stack Developer with a Group of Consultants having 10-12+ YoE for US Clients.
 
-- 👯 I’m looking to collaborate on [Web Development Projects, Meetups, Connections]
+- 👯 I’m looking to collaborate on Web Development Projects, Meetups, Connections
 
 - 👨‍💻 All of my projects are available at [github.com/aryang23](github.com/aryang23)
 
